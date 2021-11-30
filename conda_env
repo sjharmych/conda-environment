@@ -1,0 +1,2 @@
+conda create --name new_env
+conda activate new_env 
